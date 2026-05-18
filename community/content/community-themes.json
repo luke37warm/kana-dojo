@@ -424,5 +424,11 @@
     "backgroundColor": "oklch(14.0% 0.058 290.0 / 1)",
     "mainColor": "oklch(88.0% 0.195 95.0 / 1)",
     "secondaryColor": "oklch(75.0% 0.180 275.0 / 1)"
+  },
+  {
+    "id": "festival-gold",
+    "backgroundColor": "oklch(19.0% 0.035 45.0 / 1)",
+    "mainColor": "oklch(82.0% 0.155 85.0 / 1)",
+    "secondaryColor": "oklch(70.0% 0.145 20.0 / 1)"
   }
 ]
