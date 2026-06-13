@@ -487,7 +487,9 @@
     "anime": "Fairy Tail",
     "character": "Natsu Dragneel",
     "completed": false,
-    "issued": true
+    "issued": false,
+    "completedBy": "SiddheshJajurley",
+    "completedPR": 20509
   },
   {
     "id": 50,
