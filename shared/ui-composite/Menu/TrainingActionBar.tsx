@@ -352,15 +352,14 @@ const TrainingActionBar: React.FC<ITopBarProps> = ({
                       }}
                     >
                       <Icon
-                        size={24}
+                        size={36}
                         className={cn(
                           iconClassName,
-                          id === 'classic' && 'animate-bounce',
                         )}
                       />
-                      <span className='whitespace-nowrap text-lg font-medium sm:text-xl'>
+                      {/* <span className='whitespace-nowrap text-lg font-medium sm:text-xl'>
                         {label}
-                      </span>
+                      </span> */}
                     </button>
                   ),
                 )}
